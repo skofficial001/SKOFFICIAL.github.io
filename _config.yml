@@ -11,3 +11,4 @@ google_analytics: [Your Google Analytics tracking ID]
 github:
   zip_url: http://example.com/download.zip
   another_url: another value
+  gem "github-pages", group: :jekyll_plugins
