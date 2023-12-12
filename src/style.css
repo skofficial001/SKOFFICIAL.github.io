@@ -92,7 +92,7 @@ h1:hover {
     height: 270px;
     top: 0;
     left: 0;
-    background-image: linear-gradient(to top, #00a832, #00a5a8);
+    background: linear-gradient(to top, #00a832, #00a5a8);
     clip-path: circle(400px at 50% -48.5%);
 }
 
