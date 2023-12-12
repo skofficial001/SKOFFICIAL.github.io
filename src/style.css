@@ -78,7 +78,7 @@ h1:hover {
 .dark .card{
     position: relative;
     width: 400px;
-    background-color: #00000060;
+    background-image: linear-gradient(to top, #00a832, #00a5a8);
     border-radius: 10px;
     box-shadow: 0 5px 15px 1px #0001;
     overflow: hidden;
@@ -319,7 +319,7 @@ h1:hover {
 .dark .follow{
     padding: 9.6px 0;
     width: 100%;
-    background: #008000;
+    background: linear-gradient(to top, #00a832, #00a5a8);
     color: #000;
     text-align: center;
     text-decoration: none;
