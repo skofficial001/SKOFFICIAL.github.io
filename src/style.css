@@ -319,7 +319,7 @@ h1:hover {
 .dark .follow{
     padding: 9.6px 0;
     width: 100%;
-    background: #734f96;
+    background: #008000;
     color: #000;
     text-align: center;
     text-decoration: none;
@@ -333,8 +333,8 @@ h1:hover {
 .dark .share{
     padding: 7.6px 0;
     width: 100%;
-    border: 2px solid #734f96;
-    color: #734f96;
+    border: 2px solid #008000;
+    color:#008000;
     text-decoration: none;
     text-align: center;
     font-size: .7rem;
