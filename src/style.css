@@ -429,7 +429,7 @@ h1:hover {
     height: 270px;
     top: 0;
     left: 0;
-    background-image: linear-gradient(to top, #7F00FF, #E100FF);
+    background-image: linear-gradient(to top, #ff002f, #ffdd00);
     clip-path: circle(400px at 50% -48.5%);
 }
 
@@ -657,7 +657,7 @@ h1:hover {
 .light .follow{
     padding: 9.6px 0;
     width: 100%;
-    background: linear-gradient(to right, #7F00FF, #E100FF);
+    background: linear-gradient(to right, #ff002f, #ffdd00);
     color: #fff;
     text-align: center;
     text-decoration: none;
@@ -672,7 +672,7 @@ h1:hover {
     padding: 7.6px 0;
     width: 100%;
     border: 2px solid #6200ffc0;
-    color: #7F00FF;
+    color: #ff002f;
     text-decoration: none;
     text-align: center;
     font-size: .7rem;
