@@ -120,7 +120,7 @@ toggle.addEventListener('change', function () {
                  line_linked: {
                    enable: true,
                    distance: 125,
-                   color: "#8af29f",
+                   color: "#ffffff",
                    opacity: .75,
                    width: 0.5
                  },
