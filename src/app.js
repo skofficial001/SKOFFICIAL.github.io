@@ -107,7 +107,7 @@ toggle.addEventListener('change', function () {
           particlesJS("particles-js", {
                particles: {
                  number: { value: 100, density: { enable: true, value_area: 800 } },
-                 color: { value: "#0d1c0f" },
+                 color: { value: "#b392ac" },
                  shape: {
                    type: "polygon",
                    polygon: { nb_sides: 6 },
