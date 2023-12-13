@@ -57,7 +57,7 @@ body{
 h1:hover {
     cursor: pointer;
     background-color: #e8e1ef;
-    color: #39FF14;
+    color: #3dff33;
     border-radius: .25em;
     padding: 1rem 2rem;
     transition: all 200ms linear;
@@ -898,7 +898,7 @@ h1:hover {
 	 height: 100%;
 	 background-color: #e7bdffa1;
 	 border-radius: 40px;
-	 border: 5px solid #e0aaff;
+	 border: 5px solid #33f243;
 	 transition: all 0.1s cubic-bezier(0.25, 0.46, 0.45, 0.94);
      backdrop-filter: blur(2.5px);
 }
