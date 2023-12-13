@@ -898,7 +898,7 @@ h1:hover {
 	 height: 100%;
 	 background-color: #e7bdffa1;
 	 border-radius: 40px;
-	 border: 5px solid #33f243;
+	 border: 5px solid #dfbfe0;
 	 transition: all 0.1s cubic-bezier(0.25, 0.46, 0.45, 0.94);
      backdrop-filter: blur(2.5px);
 }
@@ -976,7 +976,7 @@ h1:hover {
 	 height: 2px;
 	 background-color: #efeeda;
 	 border-radius: 100%;
-	 border: 4px solid #dee1c5;
+	 border: 4px solid #ddaff0;
 	 box-shadow: 42px -7px 0 -3px #fcfcfc, 75px -10px 0 -3px #fcfcfc, 54px 4px 0 -4px #fcfcfc, 83px 7px 0 -2px #fcfcfc, 63px 18px 0 -4px #fcfcfc, 44px 28px 0 -2px #fcfcfc, 78px 23px 0 -3px #fcfcfc;
 	 transition: all 0.12s cubic-bezier(0.25, 0.46, 0.45, 0.94);
 	 transform: scale(0);
